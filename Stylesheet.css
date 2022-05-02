@@ -1,0 +1,69 @@
+body 
+{
+    color: blue;
+    background-color: brown;
+    border: 2cm;
+    border-style: dotted;
+    border-color: rgb(0, 0, 0);
+}
+h1
+{
+    color: aqua;
+    text-decoration:underline;
+    text-align: center;
+}
+h2
+{
+    color: yellow;
+}
+fieldset
+{
+    color: rgb(0, 0, 0);
+    font-size: 120%;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration-style: wavy;
+    text-align: center;
+    border: 5em;
+    border-style: double;
+    padding: 0.2%;
+}
+legend
+{
+    color: rgb(255, 255, 255);
+}
+#sup
+{
+    text-decoration: line-through;
+}
+.Contacts{
+    background-color: aqua;
+}
+.name{
+    font: bold;
+}
+.phone{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+a {
+    color: rgb(21, 255, 0);
+}
+a:visited {
+    color: rgb(238, 255, 0);
+}
+a:hover {
+    color: rgb(255, 0, 0);
+}
+.infinity{
+    border: 10ex;
+    float: right;
+    width: 50%;
+}
+.soccer{
+    border: 10ex;
+    float: left;
+    width: 50%;
+}
+.pets{
+    float:inherit;
+}
